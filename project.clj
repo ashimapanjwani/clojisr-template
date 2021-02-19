@@ -1,6 +1,6 @@
-(defproject clj-py-r-template/clj-template "1.1.1"
-  :description "Template to quickly create clojure data sciene projects with  R + python "
-  :url "https://github.com/behrica/clj-py-R-template"
+(defproject clojisr-template/clj-template "1.1.1"
+  :description "Template to get started with using ClojisR"
+  :url "https://github.com/ashimapanjwani/clojisr-template"
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
   :plugins [[lein-tools-deps "0.4.5"]]
