@@ -1,5 +1,5 @@
-(defproject clojisr-template/clj-template "1.1.1"
-  :description "Template to get started with using ClojisR"
+(defproject clojisr-template/clojisr-template "1.0.0"
+  :description "Template to get started with ClojisR - a wrapper library exposing APIs for calling R functions on R objects in Clojure"
   :url "https://github.com/ashimapanjwani/clojisr-template"
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
