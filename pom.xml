@@ -4,7 +4,7 @@
   <groupId>clojisr-template</groupId>
   <artifactId>clojisr-template</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>clojisr-template</name>
   <description>Template to get started with ClojisR - a wrapper library exposing APIs for calling R functions on R objects in Clojure</description>
   <url>https://github.com/ashimapanjwani/clojisr-template</url>
@@ -18,7 +18,7 @@
     <url>https://github.com/ashimapanjwani/clojisr-template</url>
     <connection>scm:git:git://github.com/ashimapanjwani/clojisr-template.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/ashimapanjwani/clojisr-template.git</developerConnection>
-    <tag>1976a75e7bf5fc6c3eb2cef40a13fc16c9a25e06</tag>
+    <tag>933f23ccf5ff6b14589945c798af75fe37a78b9d</tag>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
