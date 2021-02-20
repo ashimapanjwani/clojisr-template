@@ -2,7 +2,7 @@
 
 Template to get started with [ClojisR](https://github.com/scicloj/clojisr) - a wrapper library exposing APIs for calling R functions on R objects in Clojure
 
-It contains a Dockerfile which has Clojure and all the dependencies for [ClojisR](https://github.com/scicloj/clojisr).
+It contains a Dockerfile which has Clojure and all the dependencies for ClojisR.
 
 ## Usage
 
